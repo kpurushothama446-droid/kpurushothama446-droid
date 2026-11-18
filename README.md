@@ -54,7 +54,7 @@ My interest is in developing efficient firmware and understanding how software c
 
 | Project | Technologies | Documentation |
 |---|---|---|
-| CAN Dashboard | PIC18F4580, Embedded C, CAN | View Repository |
+| CAN Dashboard | PIC18F4580, Embedded C, CAN | [View Repository](https://github.com/kpurushothama446-droid/CAN-Based-Dashboard) |
 | Fire Fighting Robot | Arduino, Sensors, GSM | View Repository |
 | Address Book | C, Structures, File Handling | View Repository |
 | TFTP | C, Linux, Socket Programming | View Repository |
@@ -82,9 +82,9 @@ My interest is in developing efficient firmware and understanding how software c
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_EXISTING_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/purushothama-k-b8413227b/)
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:kpurushothama446@gmail.com)
 
 </div>
 
