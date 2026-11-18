@@ -44,26 +44,19 @@ My interest is in developing efficient firmware and understanding how software c
 ### Development Tools
 `MPLAB X IDE` `XC8 Compiler` `Git` `GitHub`
 
-## `03. FEATURED PROJECTS`
+## `03.⚡ PROJECT LAB | ENGINEERING IN ACTION
 
-### ⚙️ CAN-Based Dashboard System
-- Microcontroller-based dashboard simulation using PIC18F4580.
-- Explored CAN communication and LCD interfacing.
-- Worked with embedded C and microcontroller peripherals.
+\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00FF99&center=true&vCenter=true&width=650&lines=Microcontrollers+in+Action;Firmware+Development;Hardware+%2B+Software+Integration;Building+Embedded+Solutions](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&duration=2500\&pause=700\&color=00FF99\&center=true\&vCenter=true\&width=650\&lines=Microcontrollers+in+Action;Firmware+Development;Hardware+%2B+Software+Integration;Building+Embedded+Solutions)" /> \</p>
 
-### 🔥 Autonomous Fire Fighting Robot
-- Arduino-based autonomous firefighting system.
-- Integrated flame sensor, MQ2, motor driver, servo and water pump.
-- Implemented sensor-based control and GSM alerts.
+### 🔧 Featured Engineering Projects
 
-### 📇 Address Book Management System
-- Developed a contact management application using C.
-- Implemented add, search, modify, delete and display operations.
-- Used structures and file handling.
+| Project             | Technologies                 | Documentation   |
+| ------------------- | ---------------------------- | --------------- |
+| CAN Dashboard       | PIC18F4580, Embedded C, CAN  | View Repository |
+| Fire Fighting Robot | Arduino, Sensors, GSM        | View Repository |
+| Address Book        | C, Structures, File Handling | View Repository |
+| TFTP                | C, Linux, Socket Programming | View Repository |
 
-### 🌐 TFTP File Transfer
-- Developed a client-server file transfer application using C.
-- Worked with socket programming and data transfer.
 
 ## `04. GITHUB STATISTICS`
 
