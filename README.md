@@ -1,9 +1,9 @@
-# 👨‍💻 PURUSHOTHAMA K
+# PURUSHOTHAMA K
 ### EMBEDDED SOFTWARE ENGINEER | EMBEDDED C | LINUX SYSTEM PROGRAMMING
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=900&color=00E5A8&center=true&vCenter=true&width=900&lines=Embedded+Software+Engineer;Building+Reliable+Embedded+Systems;Embedded+C+%7C+Microcontrollers;Linux+System+Programming;CAN+%7C+UART+%7C+SPI+%7C+I2C;Turning+Hardware+Concepts+Into+Working+Systems" alt="Animated developer introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=800&color=00E5A8&center=true&vCenter=true&width=900&lines=EMBEDDED+SOFTWARE+ENGINEER;EMBEDDED+C+%7C+MICROCONTROLLERS;LINUX+SYSTEM+PROGRAMMING;CAN+%7C+UART+%7C+SPI+%7C+I2C;BUILDING+RELIABLE+EMBEDDED+SYSTEMS" alt="Animated introduction"/>
 
 <br/>
 
@@ -12,30 +12,39 @@
 <img src="https://img.shields.io/badge/PLATFORM-LINUX-FCC624?style=for-the-badge&logo=linux"/>
 <img src="https://img.shields.io/badge/DOMAIN-FIRMWARE%20DEVELOPMENT-3949AB?style=for-the-badge"/>
 
-[GitHub](https://github.com/kpurushothama446-droid) · [LinkedIn](YOUR_LINKEDIN_PROFILE_URL) · [Email](YOUR_EMAIL_ADDRESS)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/kpurushothama446-droid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
 ---
 
-## `01 / PROFESSIONAL PROFILE`
+## 01 | PROFESSIONAL PROFILE
 
-I am an Electrical and Electronics Engineering graduate with professional training in Embedded Systems and a strong interest in Embedded Software Development.
+I am an Electrical and Electronics Engineering graduate with specialized training in Embedded Systems and a strong interest in Embedded Software Development.
 
-I have developed practical programming experience in C, Embedded C, Linux system programming, microcontroller interfacing and communication protocols.
+My technical foundation includes C programming, Embedded C, microcontroller fundamentals, Linux system programming, data structures and communication protocols.
 
-My technical interests include developing firmware, understanding microcontroller peripherals, implementing communication interfaces and building reliable software for embedded applications.
+I enjoy working close to the hardware level, understanding how firmware interacts with peripherals, how data moves between devices and how communication protocols enable reliable system operation.
 
-I enjoy understanding systems from the low-level perspective — how data is processed, how hardware peripherals interact with firmware and how software communicates with other devices.
+Through practical projects, I have explored:
 
-**My career objective is to grow as an Embedded Software Engineer by contributing to firmware development, device drivers, hardware interfacing and embedded system design.**
+- Microcontroller-based embedded applications.
+- CAN communication and automotive dashboard architecture.
+- Linux process management and system calls.
+- UDP socket programming and file transfer.
+- Bit-level data manipulation and file processing.
+
+**My objective is to contribute to embedded firmware development, strengthen my low-level programming skills and grow into an engineer capable of developing reliable, efficient and maintainable embedded systems.**
 
 ---
 
-## `02 / TECHNICAL SKILLS`
+## 02 | TECHNICAL SKILLS
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" alt="Programming skills"/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" alt="Programming languages"/>
 
 - C Programming – Basic to Advanced
 - Embedded C
@@ -43,8 +52,8 @@ I enjoy understanding systems from the low-level perspective — how data is pro
 - Python Fundamentals
 
 ### Embedded Systems
-- Microcontroller Programming
-- PIC18 Microcontrollers
+
+- PIC18 Microcontroller Fundamentals
 - GPIO and Digital I/O
 - ADC Interfacing
 - Timers and Interrupts
@@ -54,17 +63,19 @@ I enjoy understanding systems from the low-level perspective — how data is pro
 - Register-Level Programming Fundamentals
 
 ### Communication Protocols
-<img src="https://img.shields.io/badge/CAN-Communication-007ACC?style=flat-square"/>
-<img src="https://img.shields.io/badge/UART-Serial-00A98F?style=flat-square"/>
-<img src="https://img.shields.io/badge/SPI-Interface-3949AB?style=flat-square"/>
-<img src="https://img.shields.io/badge/I2C-Protocol-orange?style=flat-square"/>
 
-- CAN – Controller Area Network
-- UART – Universal Asynchronous Receiver Transmitter
-- SPI – Serial Peripheral Interface
-- I2C – Inter-Integrated Circuit
+<img src="https://img.shields.io/badge/CAN-Controller%20Area%20Network-007ACC?style=flat-square"/>
+<img src="https://img.shields.io/badge/UART-Serial%20Communication-00A98F?style=flat-square"/>
+<img src="https://img.shields.io/badge/SPI-Serial%20Peripheral%20Interface-3949AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/I2C-Inter--Integrated%20Circuit-orange?style=flat-square"/>
+
+- CAN
+- UART
+- SPI
+- I2C
 
 ### Linux and System Programming
+
 - Linux Fundamentals and Internals
 - Process Management
 - System Calls
@@ -85,139 +96,184 @@ I enjoy understanding systems from the low-level perspective — how data is pro
 
 ---
 
-## `03 / FEATURED ENGINEERING PROJECTS`
+# 03 | FEATURED ENGINEERING PROJECTS
 
-### PROJECT 01 — CAN-BASED AUTOMOTIVE DASHBOARD
+## 01. CAN-BASED AUTOMOTIVE DASHBOARD
 
-**Embedded Automotive Systems | PIC18 | Embedded C | CAN Communication**
+<div align="center">
 
-<img src="assets/can-dashboard-demo.gif" width="100%" alt="CAN dashboard project demonstration"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=900&color=00E5A8&center=true&vCenter=true&width=750&lines=AUTOMOTIVE+EMBEDDED+SYSTEMS;PIC18+%7C+EMBEDDED+C+%7C+CAN;SENSOR+DATA+%7C+MESSAGE+HANDLING;REAL-TIME+DASHBOARD+CONCEPT" alt="CAN project animation"/>
 
-Developed a CAN-based automotive dashboard project to explore communication between embedded nodes and display vehicle-related information.
+<img src="https://img.shields.io/badge/PIC18-Microcontroller-00599C?style=flat-square"/>
+<img src="https://img.shields.io/badge/CAN-Communication-00A98F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Language-Embedded%20C-blue?style=flat-square"/>
+
+</div>
+
+### Project Overview
+
+A CAN-based automotive dashboard simulation developed to understand communication between embedded nodes and the processing of vehicle-related information.
+
+The project explores how sensor inputs, communication messages and display peripherals work together in an automotive-style embedded architecture.
 
 **Technical Highlights**
+
 - PIC18 microcontroller-based development.
-- CAN communication concepts and message handling.
-- ADC-based input processing.
+- CAN communication and message identification.
+- ADC-based sensor input processing.
 - Digital input handling.
-- LCD-based dashboard display.
+- LCD dashboard interfacing.
 - Timer-based indicator control.
+- Modular Embedded C programming.
 
 **Engineering Concepts:** CAN frames, message identifiers, ADC, GPIO, timers and embedded firmware architecture.
 
-[View CAN Dashboard Repository](https://github.com/kpurushothama446-droid/CAN-Based-Automotive_Dashboard)
+**Platform:** MPLAB X IDE | XC8 | PIC18F4580
+
+[![View Project](https://img.shields.io/badge/EXPLORE%20PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/kpurushothama446-droid/CAN-Based-Automotive_Dashboard)
 
 ---
 
-### PROJECT 02 — TFTP CLIENT-SERVER IMPLEMENTATION
+## 02. TFTP CLIENT-SERVER IMPLEMENTATION
 
-**Linux System Programming | C | UDP | Socket Programming**
+<div align="center">
 
-<img src="assets/tftp-demo.gif" width="100%" alt="TFTP client server demonstration"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=900&color=00C8FF&center=true&vCenter=true&width=750&lines=CLIENT+SERVER+ARCHITECTURE;UDP+SOCKET+PROGRAMMING;PACKET+TRANSFER+AND+ACKNOWLEDGMENT;NETWORK+PROTOCOL+IMPLEMENTATION" alt="TFTP project animation"/>
 
-Implemented a Trivial File Transfer Protocol application using C and socket programming in a Linux environment.
+<img src="https://img.shields.io/badge/Language-C-00599C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Protocol-TFTP-00A98F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transport-UDP-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=flat-square"/>
 
-The project explores communication between a client and server, file transfer operations and packet-level data handling.
+</div>
+
+### Project Overview
+
+Implemented a Trivial File Transfer Protocol application using C and Linux socket programming.
+
+The project focuses on client-server communication, packet handling, file transfer operations and acknowledgment-based communication.
 
 **Technical Highlights**
+
 - Client-server architecture.
 - UDP socket communication.
-- File transfer request and response handling.
-- Acknowledgment packet processing.
+- Read and write request handling.
+- Data packet and acknowledgment processing.
 - Normal, octet and netascii transfer modes.
 - Network byte-order conversion using `htons()` and `ntohs()`.
 
 **Engineering Concepts:** UDP, sockets, packet structures, ACK handling, file I/O and network byte order.
 
-[Explore TFTP Implementation](YOUR_TFTP_REPOSITORY_URL)
+[![Explore Project](https://img.shields.io/badge/EXPLORE%20PROJECT-181717?style=for-the-badge&logo=github)](TFTP-Client-Server)
 
 ---
 
-### PROJECT 03 — MINI SHELL IMPLEMENTATION
+## 03. MINI SHELL IMPLEMENTATION
 
-**Linux Internals | C | Process Management | System Calls**
+<div align="center">
 
-<img src="assets/mini-shell-demo.gif" width="100%" alt="Mini shell terminal demonstration"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=900&color=00E5A8&center=true&vCenter=true&width=750&lines=BUILDING+A+COMMAND+LINE+INTERPRETER;PROCESS+CREATION+USING+FORK;PROGRAM+EXECUTION+USING+EXEC;LINUX+PROCESS+MANAGEMENT" alt="Mini Shell project animation"/>
 
-Developed a basic command-line shell to understand how Linux processes user commands and executes external programs.
+<img src="https://img.shields.io/badge/Language-C-00599C?style=flat-square"/>
+<img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square"/>
+<img src="https://img.shields.io/badge/Concept-Process%20Management-00A98F?style=flat-square"/>
+
+</div>
+
+### Project Overview
+
+Developed a Mini Shell application to understand how Linux processes user commands and executes external programs.
+
+The project explores process creation, program execution and synchronization through Linux system calls.
 
 **Technical Highlights**
+
 - Command input and processing.
-- Process creation using `fork()`.
-- Program execution using the `exec()` family.
+- Child process creation using `fork()`.
+- External program execution using the `exec()` family.
 - Parent-child process management.
 - Process synchronization using `wait()`.
 
-**Engineering Concepts:** Process creation, execution, system calls, Linux process management and command-line programming.
+**Engineering Concepts:** Linux internals, system calls, process management and command-line programming.
 
-[Explore Mini Shell Repository](https://github.com/kpurushothama446-droid/Mini-Shell-Implementation)
+[![Explore Project](https://img.shields.io/badge/EXPLORE%20PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/kpurushothama446-droid/Mini-Shell-Implementation)
 
 ---
 
-### PROJECT 04 — IMAGE STEGANOGRAPHY IN C
+## 04. IMAGE STEGANOGRAPHY IN C
 
-**Bit Manipulation | BMP Image Processing | LSB Encoding**
+<div align="center">
 
-<img src="assets/steganography-demo.gif" width="100%" alt="Image steganography demonstration"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=900&color=00E5A8&center=true&vCenter=true&width=750&lines=HIDING+DATA+INSIDE+DIGITAL+IMAGES;LSB+BASED+DATA+ENCODING;BMP+IMAGE+PROCESSING;SECRET+MESSAGE+EXTRACTION" alt="Steganography project animation"/>
 
-Implemented an image steganography application that hides secret information inside BMP image data using the Least Significant Bit technique.
+<img src="https://img.shields.io/badge/Language-C-00599C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Technique-LSB-00A98F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Format-BMP-3949AB?style=flat-square"/>
+
+</div>
+
+### Project Overview
+
+Implemented an image steganography application using C to hide secret information inside BMP image data through the Least Significant Bit technique.
+
+The project demonstrates bit-level data manipulation, image file handling and the reconstruction of hidden information.
 
 **Technical Highlights**
-- BMP file structure handling.
+
+- BMP image structure handling.
 - Header preservation.
 - Secret message encoding.
 - LSB-based pixel manipulation.
 - Magic string identification.
 - Message extraction and decoding.
 
-**Engineering Concepts:** Bitwise operations, binary data processing, pointers, file handling and encoding/decoding.
+**Engineering Concepts:** Bitwise operators, binary data processing, pointers, file handling and encoding/decoding.
 
-[Explore Image Steganography Repository](https://github.com/kpurushothama446-droid/Image-Steganography-in-C)
+[![Explore Project](https://img.shields.io/badge/EXPLORE%20PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/kpurushothama446-droid/Image-Steganography-in-C)
 
 ---
 
-### PROJECT 05 — ADDRESS BOOK MANAGEMENT SYSTEM
+## 05. ADDRESS BOOK MANAGEMENT SYSTEM
 
-**C Programming | Data Structures | File Handling**
+<div align="center">
 
-<img src="assets/addressbook-demo.gif" width="100%" alt="Address book project demonstration"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=900&color=00C8FF&center=true&vCenter=true&width=750&lines=C+PROGRAMMING+FUNDAMENTALS;STRUCTURES+AND+FILE+HANDLING;CONTACT+MANAGEMENT;PERSISTENT+DATA+STORAGE" alt="Address Book project animation"/>
+
+<img src="https://img.shields.io/badge/Language-C-00599C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Concept-Structures-00A98F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Storage-CSV-blue?style=flat-square"/>
+
+</div>
+
+### Project Overview
 
 Developed a command-line contact management application using C to organize and maintain contact information.
 
+The application demonstrates structured data management and persistent storage through file handling.
+
 **Technical Highlights**
+
 - Add new contacts.
 - Search existing contacts.
 - Modify contact information.
 - Delete contacts.
 - Display stored records.
-- Persistent storage using CSV file handling.
+- CSV-based persistent storage.
 
 **Engineering Concepts:** Structures, arrays, functions, string handling, file operations and data management.
 
-[Explore Address Book Repository](YOUR_ADDRESSBOOK_REPOSITORY_URL)
+[![Explore Project](https://img.shields.io/badge/EXPLORE%20PROJECT-181717?style=for-the-badge&logo=github)](C-Address-Book)
 
 ---
 
-## `04 / CORE ENGINEERING INTERESTS`
+# 04 | PROFESSIONAL TRAINING
 
-| Area | Technical Focus |
-|---|---|
-| Embedded Firmware | Embedded C and microcontroller programming |
-| Peripheral Interfacing | GPIO, ADC, PWM and timers |
-| Communication | CAN, UART, SPI and I2C |
-| Linux Programming | Processes, system calls and sockets |
-| Data Processing | Bit manipulation and memory handling |
-| Software Development | Modular programming and debugging |
+### EMERTXE INFORMATION TECHNOLOGIES
 
----
+**Emertxe Certified Embedded Professional (ECEP)**
 
-## `05 / PROFESSIONAL TRAINING`
+Technical training areas:
 
-**Emertxe Information Technologies**
-
-Emertxe Certified Embedded Professional (ECEP)
-
-Training areas:
 - C Programming – Basic to Advanced
 - C++ Fundamentals
 - Pointers, Structures and Unions
@@ -229,13 +285,26 @@ Training areas:
 
 ---
 
-## `06 / GITHUB ACTIVITY`
+# 05 | ENGINEERING FOCUS
+
+| Engineering Area | Focus |
+|---|---|
+| Embedded Firmware | Embedded C and microcontroller programming |
+| Peripheral Interfacing | GPIO, ADC, PWM and timers |
+| Communication | CAN, UART, SPI and I2C |
+| Linux Programming | Processes, system calls and sockets |
+| Data Processing | Bit manipulation and memory handling |
+| Software Development | Modular programming and debugging |
+
+---
+
+# 06 | GITHUB ACTIVITY
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=kpurushothama446-droid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpurushothama446-droid&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpurushothama446-droid&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages"/>
 
 <img src="https://streak-stats.demolab.com?user=kpurushothama446-droid&theme=tokyonight&hide_border=true" width="100%" alt="GitHub contribution streak"/>
 
@@ -243,15 +312,15 @@ Training areas:
 
 ---
 
-## `07 / ENGINEERING MINDSET`
+# 07 | ENGINEERING MINDSET
 
-> "Good embedded software is not just about writing code. It is about understanding how software interacts with hardware, how data moves between systems and how every component works together reliably."
+> I believe strong embedded engineering starts with understanding what happens beneath the code — from memory and processor execution to peripheral interfacing and communication between devices.
 
-I continuously work on strengthening my fundamentals in Embedded C, microcontrollers, Linux and communication protocols while developing practical engineering projects.
+I continuously strengthen my technical fundamentals through hands-on projects, debugging and low-level programming practice.
 
 ---
 
-## `08 / CONNECT WITH ME`
+# 08 | CONNECT WITH ME
 
 <div align="center">
 
@@ -259,8 +328,18 @@ I continuously work on strengthening my fundamentals in Embedded C, microcontrol
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/purushothama-k-b8413227b/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kpurushothama446@gmail.com)
 
-### LET'S BUILD RELIABLE EMBEDDED SYSTEMS.
+</div>
 
-**LEARN | BUILD | DEBUG | ENGINEER**
+---
+
+<div align="center">
+
+## LET'S ENGINEER WHAT'S NEXT.
+
+### I AM READY TO BRING MY C PROGRAMMING, EMBEDDED SYSTEMS AND LINUX FUNDAMENTALS TO A TEAM THAT BUILDS REAL-WORLD TECHNOLOGY.
+
+**OPEN TO EMBEDDED SOFTWARE ENGINEER AND EMBEDDED C OPPORTUNITIES.**
+
+**LEARN. BUILD. DEBUG. ENGINEER.**
 
 </div>
