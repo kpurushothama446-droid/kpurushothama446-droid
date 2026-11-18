@@ -54,7 +54,7 @@ My interest is in developing efficient firmware and understanding how software c
 
 | Project | Technologies | Documentation |
 |---|---|---|
-| CAN Dashboard | PIC18F4580, Embedded C, CAN | [View Repository](https://github.com/kpurushothama446-droid/CAN-Based-Dashboard) |
+| CAN-Based Automotive Dashboard | PIC18F4580, Embedded C, CAN | [View Project](https://github.com/kpurushothama446-droid/CAN-Based-Automotive_Dashboard) |
 | Fire Fighting Robot | Arduino, Sensors, GSM | View Repository |
 | Address Book | C, Structures, File Handling | View Repository |
 | TFTP | C, Linux, Socket Programming | View Repository |
