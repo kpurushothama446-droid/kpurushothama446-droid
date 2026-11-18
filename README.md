@@ -13,8 +13,8 @@
 <img src="https://img.shields.io/badge/DOMAIN-FIRMWARE%20DEVELOPMENT-3949AB?style=for-the-badge"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/kpurushothama446-droid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/purushothama-k-b8413227b/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kpurushothama446@gmail.com)
 
 </div>
 
@@ -164,7 +164,7 @@ The project focuses on client-server communication, packet handling, file transf
 
 **Engineering Concepts:** UDP, sockets, packet structures, ACK handling, file I/O and network byte order.
 
-[![Explore Project](https://img.shields.io/badge/EXPLORE%20PROJECT-181717?style=for-the-badge&logo=github)](TFTP-Client-Server)
+[![Explore Project](https://img.shields.io/badge/EXPLORE%20PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/kpurushothama446-droid/TFTP-Client-Server)
 
 ---
 
@@ -262,7 +262,7 @@ The application demonstrates structured data management and persistent storage t
 
 **Engineering Concepts:** Structures, arrays, functions, string handling, file operations and data management.
 
-[![Explore Project](https://img.shields.io/badge/EXPLORE%20PROJECT-181717?style=for-the-badge&logo=github)](C-Address-Book)
+[![Explore Project](https://img.shields.io/badge/EXPLORE%20PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/kpurushothama446-droid/C-Address-Book)
 
 ---
 
