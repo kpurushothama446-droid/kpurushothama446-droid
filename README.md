@@ -46,16 +46,18 @@ My interest is in developing efficient firmware and understanding how software c
 
 ## `03.⚡ PROJECT LAB | ENGINEERING IN ACTION
 
-\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00FF99&center=true&vCenter=true&width=650&lines=Microcontrollers+in+Action;Firmware+Development;Hardware+%2B+Software+Integration;Building+Embedded+Solutions](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&duration=2500\&pause=700\&color=00FF99\&center=true\&vCenter=true\&width=650\&lines=Microcontrollers+in+Action;Firmware+Development;Hardware+%2B+Software+Integration;Building+Embedded+Solutions)" /> \</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00FF99&center=true&vCenter=true&width=650&lines=Microcontrollers+in+Action;Firmware+Development;Hardware+%2B+Software+Integration;Building+Embedded+Solutions" alt="Animated project heading" />
+</p>
 
 ### 🔧 Featured Engineering Projects
 
-| Project             | Technologies                 | Documentation   |
-| ------------------- | ---------------------------- | --------------- |
-| CAN Dashboard       | PIC18F4580, Embedded C, CAN  | View Repository |
-| Fire Fighting Robot | Arduino, Sensors, GSM        | View Repository |
-| Address Book        | C, Structures, File Handling | View Repository |
-| TFTP                | C, Linux, Socket Programming | View Repository |
+| Project | Technologies | Documentation |
+|---|---|---|
+| CAN Dashboard | PIC18F4580, Embedded C, CAN | View Repository |
+| Fire Fighting Robot | Arduino, Sensors, GSM | View Repository |
+| Address Book | C, Structures, File Handling | View Repository |
+| TFTP | C, Linux, Socket Programming | View Repository |
 
 
 ## `04. GITHUB STATISTICS`
